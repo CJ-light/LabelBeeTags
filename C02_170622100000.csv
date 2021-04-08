@@ -1,9 +1,9 @@
 Image_id,is_tagged,has_pollen,pollen_color,lighting,is_blurry,view_orientation,is_occluded,is_crowded
-000045740_000002777.jpg,?,?,?,?,?,?,?,?
-000050460_000003060.jpg,?,?,?,?,?,?,?,?
-000039860_000002342.jpg,?,?,?,?,?,?,?,?
-000024680_000001384.jpg,?,?,?,?,?,?,?,?
-000051820_000003076.jpg,?,?,?,?,?,?,?,?
+000045740_000002777.jpg,false,false,N/A,sunny,false,top,false,false
+000050460_000003060.jpg,false,false,N/A,sunny,false,top,false,false
+000039860_000002342.jpg,false,false,N/A,sunny,false,top,false,false
+000024680_000001384.jpg,false,false,N/A,sunny,false,top,false,false
+000051820_000003076.jpg,false,false,N/A,sunny,false,top,false,false
 000009840_000000657.jpg,?,?,?,?,?,?,?,?
 000021360_000001056.jpg,?,?,?,?,?,?,?,?
 000061560_000003748.jpg,?,?,?,?,?,?,?,?
