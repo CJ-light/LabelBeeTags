@@ -1,9 +1,9 @@
 Image_id,is_tagged,has_pollen,pollen_color,lighting,is_blurry,view_orientation,is_occluded,is_crowded
-C02_170623110000_44037.jpg,true,false,N/A,sunny,false,top,false,false
-C02_170623110000_47245.jpg,true,false,N/A,sunny,false,top,false,false
-000000060_000000007.jpg,false,false,N/A,sunny,false,top,false,false
-C02_170623110000_17633.jpg,true,false,N/A,sunny,false,top,false,false
-000000020_000000007.jpg,false,false,N/A,sunny,false,top,false,false
+C02_170623110000_44037.jpg,true,false,,sunny,false,top,false,false
+C02_170623110000_47245.jpg,true,false,,sunny,false,top,false,false
+000000060_000000007.jpg,false,false,,sunny,false,top,false,false
+C02_170623110000_17633.jpg,true,false,,sunny,false,top,false,false
+000000020_000000007.jpg,false,false,,sunny,false,top,false,false
 C02_170621130000_57987.jpg,?,?,?,?,?,?,?,?
 C02_170623110000_64553.jpg,?,?,?,?,?,?,?,?
 000000200_000000011.jpg,?,?,?,?,?,?,?,?
