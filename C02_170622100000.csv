@@ -326,9 +326,9 @@ Image_id,is_tagged,has_pollen,pollen_color,lighting,is_blurry,view_orientation,i
 000004060_000000219.jpg,false,true,no_pollen,sunny,false,top,false,false
 000027800_000001540.jpg,false,true,no_pollen,sunny,false,top,false,true
 000037040_000002236.jpg,?,?,?,?,?,?,?,?
-000011440_000000738.jpg,?,?,?,?,?,?,?,?
-000005640_000000343.jpg,?,?,?,?,?,?,?,?
-000031600_000001807.jpg,?,?,?,?,?,?,?,?
+000011440_000000738.jpg,false,true,no_pollen,sunny,false,bottom,false,false
+000005640_000000343.jpg,false,true,no_pollen,sunny,false,top,false,true
+000031600_000001807.jpg,false,true,no_pollen,sunny,false,top,false,false
 000071100_000004249.jpg,?,?,?,?,?,?,?,?
 000055060_000003242.jpg,?,?,?,?,?,?,?,?
 000026860_000001492.jpg,?,?,?,?,?,?,?,?
